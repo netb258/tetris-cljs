@@ -1,15 +1,13 @@
 # tetris-cljs
 
-The classic game Pong written in Clojure.
-
-Uses the Quil library for rendering.
+A ClojureScript port of this project: https://github.com/netb258/console-tetris
 
 ![Alt text](./screenshot.png?raw=true "Title")
 
-# Usage
+# Compiling
 
 
-    $ lein run
+    $ ./scripts/release
     
 ## License
 
