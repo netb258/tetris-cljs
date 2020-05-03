@@ -2,6 +2,8 @@
 
 A ClojureScript port of this project: https://github.com/netb258/console-tetris
 
+The game can be played live here: https://netb258.github.io/tetris-cljs/
+
 ![Alt text](./screenshot.png?raw=true "Title")
 
 # Running
