@@ -4,7 +4,7 @@ The classic game Pong written in Clojure.
 
 Uses the Quil library for rendering.
 
-![Alt text](./screenshot1.png?raw=true "Title")
+![Alt text](./screenshot.png?raw=true "Title")
 
 # Usage
 
