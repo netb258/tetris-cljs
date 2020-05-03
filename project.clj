@@ -1,6 +1,6 @@
 (defproject tetris "0.1.0-SNAPSHOT"
-  :description "FIXME: write this!"
-  :url "http://example.com/FIXME"
+  :description "Tetris written in ClojureScript."
+  :url "https://github.com/netb258/tetris-cljs"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.10.339" :scope "provided"]
                  [quil "2.7.1"]]
